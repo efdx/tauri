@@ -1,5 +1,12 @@
 # Changelog
 
+## \[2.0.0-beta.16]
+
+### Bug Fixes
+
+- [`daf018e4f`](https://www.github.com/tauri-apps/tauri/commit/daf018e4f5d5f6dcde51c5de42d73ab15287ec7e)([#9505](https://www.github.com/tauri-apps/tauri/pull/9505)) Fix resource tables not cleaned up on exit which causes tray icon inside resource tables not cleaned up on exit
+- [`a07b51320`](https://www.github.com/tauri-apps/tauri/commit/a07b5132019faa7695c573a6610d2def0ff9c40a)([#9490](https://www.github.com/tauri-apps/tauri/pull/9490)) Add missing permission for `window.start_resize_dragging`
+
 ## \[2.0.0-beta.15]
 
 ### New Features
